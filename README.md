@@ -1,1 +1,1 @@
-I love Android applications and games FOREVER
+I love Android games and games FOREVER
