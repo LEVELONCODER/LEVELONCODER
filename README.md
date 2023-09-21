@@ -1,1 +1,1 @@
-I love c++, bash and html&css
+bash, c++, clang, llvm
